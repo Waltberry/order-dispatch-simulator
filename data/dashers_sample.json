@@ -1,0 +1,17 @@
+[
+  {
+    "id": "d1",
+    "location": { "lat": 51.05011, "lng": -114.08529 },
+    "capacity": 2
+  },
+  {
+    "id": "d2",
+    "location": { "lat": 51.04427, "lng": -114.06302 },
+    "capacity": 2
+  },
+  {
+    "id": "d3",
+    "location": { "lat": 51.04153, "lng": -114.07100 },
+    "capacity": 1
+  }
+]
